@@ -1,0 +1,4 @@
+submission: 01a21638-d2de-74f5-9ccb-d8ce285439ab
+competition: u-email-baru-make-the-judge-laugh-in-one-line-791ccb21
+repo: https://github.com/shelbyxxx1/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21
+submitted_commit: 5b320a8b6ae792e020b1fc9523e8a46869baf94a
